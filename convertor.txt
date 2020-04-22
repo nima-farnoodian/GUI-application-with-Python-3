@@ -1,0 +1,3 @@
+To convert your UI to a python file, go to the folder that holds your ui file. Then type the following command: 
+
+pyuic5 -x -o name.py yourUI.ui
